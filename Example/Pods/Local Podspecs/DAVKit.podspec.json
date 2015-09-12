@@ -1,0 +1,25 @@
+{
+  "name": "DAVKit",
+  "version": "0.1.0",
+  "summary": "A short description of DAVKit.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DAVKit",
+  "license": "MIT",
+  "authors": {
+    "Björn Perrech": "b.perrech@macworx.de"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DAVKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DAVKit": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

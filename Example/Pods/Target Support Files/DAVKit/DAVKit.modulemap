@@ -1,0 +1,6 @@
+framework module DAVKit {
+  umbrella header "DAVKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
