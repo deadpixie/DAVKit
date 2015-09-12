@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'DAVKit_Example', :exclusive => true do
+  pod "DAVKit", :path => "../"
+end
+
+target 'DAVKit_Tests', :exclusive => true do
+  pod "DAVKit", :path => "../"
+
+  pod 'Specta'
+  pod 'Expecta'
+end
