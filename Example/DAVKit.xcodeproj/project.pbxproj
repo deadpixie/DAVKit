@@ -37,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		08C9A5B2B0AB74249BB70DFF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		110AE55C1BA4CFA100ED0C27 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		3C8A0DC99EF0B1659C83B7EB /* Pods-DAVKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DAVKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-DAVKit_Example/Pods-DAVKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* DAVKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DAVKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -186,6 +187,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
+				110AE55C1BA4CFA100ED0C27 /* LICENSE.txt */,
 				864384F56549E8CA43A23CE0 /* DAVKit.podspec */,
 				08C9A5B2B0AB74249BB70DFF /* README.md */,
 				7FD068CC53CC4CB7D99511B6 /* LICENSE */,

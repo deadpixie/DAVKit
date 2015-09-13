@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AB214BB39C75FAD321D2BA2E"
+               BlueprintIdentifier = "F32D8885EA49C97EC4DD0912"
                BuildableName = "DAVKit.framework"
                BlueprintName = "DAVKit"
                ReferencedContainer = "container:Pods.xcodeproj">
